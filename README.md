@@ -86,5 +86,4 @@ def pagina1():
 def pagina2():
     return render_template("public/pagina2.html")
 
-# Agrega más rutas según sea necesario
 ```
